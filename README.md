@@ -1,4 +1,4 @@
-Azure Data Factory Parameterized Data Ingestion Pipeline
+**Azure Data Factory Parameterized Data Ingestion Pipeline**
 
 Project Overview
 This project demonstrates a parameterized data ingestion pipeline built using Azure Data Factory (ADF).
